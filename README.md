@@ -36,6 +36,11 @@ An elegant **AI-powered web app** that offers quick emotional support and mindfu
 * **Home**: Pick a mood → Get personalized support → Option to continue in chat.
 * **Chat**: Talk naturally with AI for extended emotional support.
 
+https://github.com/Maheenrz/Mindful/blob/main/src/assets/images/img--1.png
+https://github.com/Maheenrz/Mindful/blob/main/src/assets/images/img--2.png
+https://github.com/Maheenrz/Mindful/blob/main/src/assets/images/img--3.png
+https://github.com/Maheenrz/Mindful/blob/main/src/assets/images/img--4.png
+
 ---
 
 **💜 Made with React – bringing mindfulness to your day**
