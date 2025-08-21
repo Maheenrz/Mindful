@@ -1,12 +1,43 @@
-# React + Vite
+# 🌙 Mindful Moments - AI Wellness Companion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An elegant **AI-powered web app** that offers quick emotional support and mindful guidance through two modes: **mood-based insights** and a **chat companion**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+* 🎯 **Quick Mood Support** – Choose from 6 moods (Anxious, Stressed, Tired, Grateful, Unmotivated, Overwhelmed) and get instant affirmations or exercises.
+* 💬 **AI Chat Companion** – Natural, context-aware chat with real-time typing indicators.
+* 🎨 **Beautiful UI** – Gradient theme, glass morphism, responsive design, and smooth animations.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Node.js ≥ 16
+* Mistral AI API Key
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend**: React 18 + Vite
+* **AI**: Mistral AI API
+* **Styling**: Modern CSS (Grid, Flexbox, Gradients)
+* **Routing**: React Router DOM
+* **Icons**: Lucide React
+
+---
+
+## 📱 Usage
+
+* **Home**: Pick a mood → Get personalized support → Option to continue in chat.
+* **Chat**: Talk naturally with AI for extended emotional support.
+
+---
+
+**💜 Made with React – bringing mindfulness to your day**
+
+---
