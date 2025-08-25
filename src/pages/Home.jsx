@@ -41,8 +41,8 @@ function Home({ onNavigateToChat }) {
   };
 
   return (
-    <div className="home-page"> {/* CHANGE THIS */}
-      <div className="home-container"> {/* CHANGE THIS */}
+    <div className="home-page"> 
+      <div className="home-container">
         {/* Top-right chat button */}
         <div className="chat-top-button">
           <button className="chat-top-btn" onClick={onNavigateToChat}>
