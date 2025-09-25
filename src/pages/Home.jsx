@@ -8,6 +8,8 @@ function Home({ onNavigateToChat }) {
   const [aiResponse, setAiResponse] = useState('');
   const [isLoading, setIsLoading] = useState(false);
 
+
+
   const moodOptions = [
     { mood: 'Anxious', emoji: '😰', type: 'breathing exercise' },
     { mood: 'Stressed', emoji: '😤', type: 'mindfulness tip' },
